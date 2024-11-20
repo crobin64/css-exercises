@@ -1,0 +1,19 @@
+.red-student {
+    background-color: #ce667b;
+    font-family: "DejuVu Sans", Verdana, sans-serif;
+}
+
+.big-student {
+    font-size: 24px;
+}
+
+#big-blue {
+    font-size: 36px;
+    color: #0000ff;
+}
+
+#green-boy {
+    background-color: #20b2aa;
+    font-size: 24px;
+    font-weight: 700;
+}
